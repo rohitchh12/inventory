@@ -6,7 +6,7 @@ import {
   NavLink,
 } from "react-router-dom";
 
-import Veneer from "./components/Veneer";
+import Veneer from "./components/veneer";
 import Consumption from "./components/Consumption";
 
 function App() {
