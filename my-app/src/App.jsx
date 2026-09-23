@@ -6,8 +6,8 @@ import {
   NavLink,
 } from "react-router-dom";
 
-import Veneer from "./components/veneer";
-import Consumption from "./components/Consumption";
+import Veneer from "./components/veneer.jsx";
+import Consumption from "./components/consumption.jsx";
 
 function App() {
   return (
